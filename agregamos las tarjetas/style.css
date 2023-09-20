@@ -1,0 +1,42 @@
+header {
+   background-color: rgb(209, 163, 207);
+}
+
+.nav .nav-item .nav-link {
+    color: rgb(0, 0, 0);
+}
+.nav {margin-top: -50px;
+justify-content: center;
+}
+h2{
+    margin-left: -100px;
+    height: -500%;
+}
+
+#banner{
+    justify-content: center;
+}
+
+
+#banner .imgbanner{
+   
+    height: 200px;
+}
+
+/*estilos tarjetas*/
+#tarjetas .card1{
+    margin-left: 15px;
+    margin-top: 1%;
+}
+#tarjetas .card2{
+    margin-left: 335px;
+    margin-top: -23.7%;
+}
+#tarjetas .card3{
+    margin-left: 15px;
+    margin-top: 2%;
+}
+#tarjetas .card4{
+    margin-left: 335px;
+    margin-top: -21%;
+}
